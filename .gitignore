@@ -1,0 +1,10 @@
+.idea
+test
+.DS_Store
+.project
+app/tmp
+env.ini
+config/dev
+config/prod
+app/tmp
+gulp
